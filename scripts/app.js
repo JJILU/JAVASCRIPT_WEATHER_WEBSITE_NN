@@ -1,0 +1,1 @@
+// contains all the logic for DOM manipulation
